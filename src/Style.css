@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&display=swap');
+
+.head-color{
+    color: rgb(30, 215, 96) ;
+    font-family: 'Balsamiq Sans', cursive;
+    
+}
+
+.card-deck{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
+.foot{
+    padding: 10px 0 1px 0;
+    background: white;
+    color: rgb(30, 215, 96) ;
+    font-family: 'Balsamiq Sans', cursive;
+
+}
+
+.card-bg{
+    
+    
+    color: rgb(30, 215, 96) ;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+body{
+    
+    background-color: rgb(41, 41, 41);
+}
+
